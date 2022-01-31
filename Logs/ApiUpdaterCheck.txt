@@ -1,0 +1,251 @@
+[api-updater (non-obsolete-error-filter)] 5/1/2021 9:38:24 AM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 6217.4519ms
+moved types parse time: 96ms
+candidates parse time : 2ms
+C# parse time         : 1862ms
+candidates check time : 88ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 5/1/2021 10:02:39 AM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 433.9065ms
+moved types parse time: 114ms
+candidates parse time : 3ms
+C# parse time         : 521ms
+candidates check time : 60ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 5/2/2021 10:54:27 AM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2608.8665ms
+moved types parse time: 193ms
+candidates parse time : 4ms
+C# parse time         : 945ms
+candidates check time : 120ms
+console write time    : 5ms
+
+[api-updater (non-obsolete-error-filter)] 5/2/2021 11:01:52 AM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 223.4894ms
+moved types parse time: 82ms
+candidates parse time : 2ms
+C# parse time         : 371ms
+candidates check time : 63ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 5/2/2021 5:31:15 PM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2188.5017ms
+moved types parse time: 184ms
+candidates parse time : 3ms
+C# parse time         : 620ms
+candidates check time : 148ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 5/4/2021 9:06:05 AM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from C:\Users\1nbs2\Escapism - FPS\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2528.166ms
+moved types parse time: 263ms
+candidates parse time : 4ms
+C# parse time         : 749ms
+candidates check time : 84ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 5/4/2021 9:06:47 AM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from C:\Users\1nbs2\Escapism - FPS\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 204.4893ms
+moved types parse time: 83ms
+candidates parse time : 2ms
+C# parse time         : 416ms
+candidates check time : 71ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5/4/2021 9:07:07 AM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from C:\Users\1nbs2\Escapism - FPS\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 146.6137ms
+moved types parse time: 82ms
+candidates parse time : 2ms
+C# parse time         : 439ms
+candidates check time : 62ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5/4/2021 8:59:58 PM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2896.5471ms
+moved types parse time: 157ms
+candidates parse time : 4ms
+C# parse time         : 509ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5/4/2021 9:00:16 PM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 136.6648ms
+moved types parse time: 96ms
+candidates parse time : 3ms
+C# parse time         : 426ms
+candidates check time : 54ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5/4/2021 9:00:37 PM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 168.9058ms
+moved types parse time: 139ms
+candidates parse time : 3ms
+C# parse time         : 650ms
+candidates check time : 110ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 5/6/2021 9:30:34 AM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3617.0793ms
+moved types parse time: 120ms
+candidates parse time : 3ms
+C# parse time         : 578ms
+candidates check time : 93ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/6/2021 2:27:03 PM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1088.8818ms
+moved types parse time: 90ms
+candidates parse time : 2ms
+C# parse time         : 543ms
+candidates check time : 75ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 5/6/2021 2:28:28 PM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 183.7956ms
+moved types parse time: 113ms
+candidates parse time : 2ms
+C# parse time         : 638ms
+candidates check time : 77ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 5/6/2021 2:28:55 PM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 211.4577ms
+moved types parse time: 84ms
+candidates parse time : 2ms
+C# parse time         : 347ms
+candidates check time : 74ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 5/6/2021 2:38:07 PM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 282.2456ms
+moved types parse time: 136ms
+candidates parse time : 3ms
+C# parse time         : 662ms
+candidates check time : 80ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/6/2021 3:05:36 PM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 295.0302ms
+moved types parse time: 98ms
+candidates parse time : 2ms
+C# parse time         : 426ms
+candidates check time : 52ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/6/2021 3:24:05 PM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 300.617ms
+moved types parse time: 97ms
+candidates parse time : 2ms
+C# parse time         : 427ms
+candidates check time : 67ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/6/2021 7:27:57 PM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 292.2162ms
+moved types parse time: 147ms
+candidates parse time : 3ms
+C# parse time         : 914ms
+candidates check time : 375ms
+console write time    : 25ms
+
+[api-updater (non-obsolete-error-filter)] 5/6/2021 7:28:52 PM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 215.247ms
+moved types parse time: 94ms
+candidates parse time : 2ms
+C# parse time         : 342ms
+candidates check time : 54ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5/6/2021 7:29:13 PM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 257.2917ms
+moved types parse time: 119ms
+candidates parse time : 4ms
+C# parse time         : 1364ms
+candidates check time : 72ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 5/8/2021 2:38:22 PM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1855.5575ms
+moved types parse time: 94ms
+candidates parse time : 3ms
+C# parse time         : 411ms
+candidates check time : 46ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/9/2021 8:50:22 AM : Starting C:/Users/1nbs2/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2243.9978ms
+moved types parse time: 131ms
+candidates parse time : 2ms
+C# parse time         : 534ms
+candidates check time : 73ms
+console write time    : 1ms
+
